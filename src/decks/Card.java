@@ -10,7 +10,7 @@ package decks;
  * @author othma
  */
 public class Card {
-    
+    //fields
     int number;
     String suit;
      static final  String[] suits = {"Hearts","Diamonds","Spades","Clubs"};
